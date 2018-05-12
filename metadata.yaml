@@ -1,0 +1,38 @@
+_repo: The-Best-Psychic-Stories_36712
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: French, Joseph Lewis
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '8001'
+    url: http://www.gutenberg.org/2009/agents/8001
+description: ''
+gutenberg_issued: '2011-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36712'
+  lccn: '20011499'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Short stories'
+tableOfContents: 'When the world was young / Jack London -- The return / Algernon
+  Blackwood -- The second generation / Algernon Blackwood -- Joseph: a story / Katherine
+  Rickford -- The clavecin, Bruges / George Wharton Edwards -- Ligeia / Edgar Allan
+  Poe -- The sylph and the father / Elsa Barker -- A ghost / Lafcadio Hearn -- The
+  eyes of the panther / Ambrose Bierce -- Photographing invisible beings / William
+  T. Stead -- The sin-eater / Fiona Macleod -- Ghosts in solid form / Gambier Bolton
+  -- The phantom armies seen in France / Hereward Carrington -- The portal of the
+  unknown / Andres Jackson Davis -- The supernormal: experiences / St. John D. Seymour
+  -- Nature-spirits, or elementals / Nizida -- A witch''s den / Helena Blavatsky --
+  Some remarkable experiences of famous persons / Walter F. Prince.'
+title: The Best Psychic Stories
+url: http://www.gutenberg.org/ebooks/36712
